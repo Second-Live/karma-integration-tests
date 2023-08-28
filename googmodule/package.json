@@ -1,0 +1,19 @@
+{
+  "name": "googmodule",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Integration tests for karma-googmodule-preprocessor.",
+  "main": "",
+  "scripts": {
+    "test": "karma-up start --single-run"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma-up": "latest",
+    "karma-firefox-launcher": "latest",
+    "karma-googmodule-preprocessor": "latest",
+    "karma-jasmine": "latest"
+  }
+}

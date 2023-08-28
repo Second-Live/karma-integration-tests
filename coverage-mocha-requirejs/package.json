@@ -1,0 +1,21 @@
+{
+  "name": "coverage-mocha-requirejs",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "karma-up start --single-run"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "karma-up": "latest",
+    "karma-coverage": "latest",
+    "karma-firefox-launcher": "latest",
+    "karma-mocha": "latest",
+    "karma-requirejs": "latest",
+    "mocha": "^2.3.3",
+    "requirejs": "^2.1.20"
+  }
+}

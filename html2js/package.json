@@ -1,0 +1,19 @@
+{
+  "name": "html2js",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "karma-up start --single-run"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma-up": "latest",
+    "karma-firefox-launcher": "latest",
+    "karma-html2js-preprocessor": "latest",
+    "karma-jasmine": "latest"
+  }
+}

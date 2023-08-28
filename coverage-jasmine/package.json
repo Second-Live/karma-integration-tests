@@ -1,0 +1,18 @@
+{
+  "name": "coverage-jasmine",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "karma-up start --single-run"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "karma-coverage": "latest",
+    "karma-firefox-launcher": "latest",
+    "karma-jasmine": "latest",
+    "karma-up": "latest"
+  }
+}

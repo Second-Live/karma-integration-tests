@@ -1,0 +1,18 @@
+{
+  "name": "qunit",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "karma-up start --single-run"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "karma-up": "latest",
+    "karma-firefox-launcher": "latest",
+    "karma-qunit": "latest",
+    "qunit": "^2.0.0"
+  }
+}

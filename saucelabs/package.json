@@ -1,0 +1,18 @@
+{
+  "name": "saucelabs",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "karma-up start --single-run"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "karma-up": "latest",
+    "karma-jasmine": "latest",
+    "karma-firefox-launcher": "latest",
+    "karma-sauce-launcher": "latest"
+  }
+}
