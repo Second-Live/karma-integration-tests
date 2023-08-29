@@ -10,10 +10,10 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "karma-up": "^6.3.16",
     "karma-firefox-launcher": "latest",
     "karma-jasmine": "~0.1.0",
     "karma-requirejs": "^0.2.1",
+    "karma-up": "file:../../karma-up-6.4.2.tgz",
     "requirejs": "^2.1.11"
   }
 }

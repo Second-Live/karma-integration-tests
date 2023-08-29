@@ -10,11 +10,11 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "karma-up": "latest",
     "karma-coverage": "latest",
     "karma-firefox-launcher": "latest",
     "karma-mocha": "latest",
     "karma-requirejs": "latest",
+    "karma-up": "file:../../karma-up-6.4.2.tgz",
     "mocha": "^2.3.3",
     "requirejs": "^2.1.20"
   }

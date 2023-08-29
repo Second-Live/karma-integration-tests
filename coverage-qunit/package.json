@@ -10,10 +10,10 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "karma-up": "latest",
     "karma-coverage": "latest",
     "karma-firefox-launcher": "latest",
     "karma-qunit": "latest",
+    "karma-up": "file:../../karma-up-6.4.2.tgz",
     "qunit": "^2.0.0"
   }
 }

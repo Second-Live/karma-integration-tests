@@ -11,9 +11,9 @@
   "license": "MIT",
   "devDependencies": {
     "jasmine-core": "^2.3.4",
-    "karma-up": "latest",
     "karma-firefox-launcher": "latest",
     "karma-googmodule-preprocessor": "latest",
-    "karma-jasmine": "latest"
+    "karma-jasmine": "latest",
+    "karma-up": "file:../../karma-up-6.4.2.tgz"
   }
 }
