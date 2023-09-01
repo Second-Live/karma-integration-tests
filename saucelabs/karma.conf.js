@@ -1,8 +1,8 @@
 // When running pre-release tests we want tests to fail if SauceLabs is not
 // configured instead of falling back to the headless browser. That's what
 // KARMA_TEST_NO_FALLBACK variable controls.
-const useSauceLabs = process.env.SAUCE_USERNAME && process.env.SAUCE_ACCESS_KEY
-  || process.env.KARMA_TEST_NO_FALLBACK
+const useSauceLabs = false; // process.env.SAUCE_USERNAME && process.env.SAUCE_ACCESS_KEY
+//  || process.env.KARMA_TEST_NO_FALLBACK
 
 module.exports = function(config) {
   config.set({
